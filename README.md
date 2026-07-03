@@ -31,7 +31,7 @@ Until they released this awesome tech on youtube :D
 **Reference**:<br>
 <sub>_Source: Corridor Crew. (2026). "It Took Me 30 Years to Solve this VFX Problem." YouTube. Retrieved from https://www.youtube.com/watch?v=3Ploi723hg4_
 
-## usage
+## Usage
 - **In Education**:  
 This is very useful for documenting school events just like the ICT Week or Intramurals.<br>
 As well as when making video presentations for activities and projects.<br>
@@ -45,28 +45,19 @@ It might also probably revolutionize the movie industry because this is relative
 **Reference**:<br>
 <sub>_Source: nikopueringer. (2026). "CorridorKey: Perfect green screen keys." GitHub. Retrieved from https://github.com/nikopueringer/CorridorKey_
 
-## examples
+## Examples
 
 - **In Education**:  
-I still see your shadows in my room
-Can't take back the love that I gave you
-It's to the point where I love and I hate you
-And I cannot change you, so I must replace you, oh
-Easier said than done, I thought you were the one
-Listenin' to my heart instead of my head
-You found another one, but I am the better one
-I won't let you forget me
+I found a reddit comment of a guy actually trying to use it for academic purposes. They said they will use it for educational videos with professors for university courses.
 
 - **In IT**:  
-I still see your shadows in my room
-Can't take back the love that I gave you
-It's to the point where I love and I hate you
-And I cannot change you, so I must replace you, oh
-Easier said than done, I thought you were the one
-Listenin' to my heart instead of my head
-You found another one, but I am the better one
-I won't let you forget me
+There are a lot of people that are now using it. Especially the GUI version of it as many artists don't want to mess around in the terminal. <br>
+Some also contributes to making it more accessible like plugins for DaVinci Resolve and Foundry Nuke.
 
-**Reference**:<br>
+**References**:  
+<sub>_Source: Doodenmier. (2026, March). [Comment on the reddit post "Corridor Crew's Key AI Model in Under 6GB VRAM"]. Reddit. Retrieved from https://www.reddit.com/r/vfx/comments/1rreqxz/corridor_crews_key_ai_model_in_under_6gb_vram/#:~:text=For%20reference%2C%20I%20just%20make,keys%20in%20Premiere%2FAfter%20Effects%20anymore_
+
 <sub>_Source: Corridor Crew. (2026). "I accidentally started a green screen revolution..." YouTube. Retrieved from https://www.youtube.com/watch?v=Y3Dfw969itU_
+
+<sub>_Source: mafagafacabiluda. (2026, April). Corridor Crew Chroma Key Tool - Have you tested it yet? [Online forum post]. Reddit. https://www.reddit.com/r/vfx/comments/1shuw0m/corridor_crew_chroma_key_tool_have_you_tested_it/_
 
