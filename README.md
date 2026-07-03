@@ -28,28 +28,22 @@ Normally when doing a video with a green screen, it is not just one click and ge
 Even in 2026, there is no best way to edit a video that has no rough edges.<br>
 Until they released this awesome tech on youtube :D
 
-- **Reference**:  
-_Source: Corridor Crew. (2026). "I accidentally started a green screen revolution..." YouTube. Retrieved from https://www.youtube.com/watch?v=Y3Dfw969itU_
+**Reference**:  
+<sub>_Source: Corridor Crew. (2026). "I accidentally started a green screen revolution..." YouTube. Retrieved from https://www.youtube.com/watch?v=Y3Dfw969itU_
 
 ## usage
 - **In Education**:  
-this is very useful 
-
- - **Reference**:  
-_Source: Juice WRLD. (2018). "Lucid dreams lyrics." Genius. Retrieved from [https://genius.com/Juice-wrld-lucid-dreams-lyrics](https://genius.com/Juice-wrld-lucid-dreams-lyrics)_
+This is very useful for documenting school events just like the ICT Week or Intramurals.<br>
+As well as when making video presentations for activities and projects.<br>
+Because this is released for public for anyone to use including students and is open source on github.
 
 - **In IT**:  
-I still see your shadows in my room
-Can't take back the love that I gave you
-It's to the point where I love and I hate you
-And I cannot change you, so I must replace you, oh
-Easier said than done, I thought you were the one
-Listenin' to my heart instead of my head
-You found another one, but I am the better one
-I won't let you forget me
+It is very related on IT because it tackles video editing. <br>
+Now people can actually not have a problem with green screen recordings. <br>
+It might also probably revolutionize the movie industry because this is relatively new and more efficient than previous tech. 
 
- - **Reference**:  
-_Source: Juice WRLD. (2018). "Lucid dreams lyrics." Genius. Retrieved from [https://genius.com/Juice-wrld-lucid-dreams-lyrics](https://genius.com/Juice-wrld-lucid-dreams-lyrics)_
+**Reference**:  
+<sub>_Source: nikopueringer. (2026). "CorridorKey: Perfect green screen keys." GitHub. Retrieved from https://github.com/nikopueringer/CorridorKey_
 
 ## examples
 
