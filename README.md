@@ -1,19 +1,3 @@
-> [!WARNING]
-> work in progress :D
-
-```
-Your submission should include the following sections:
-Title (Name of the chosen emerging technology)
-Purpose
-Usage
-In Education
-In the IT Industry
-Real-World Examples
-One example in Education
-One example in the IT Industry
-References (Include citations for all information and examples using reputable sources.)
-```
-
 # Corridor Key
 
 <div align="center">
