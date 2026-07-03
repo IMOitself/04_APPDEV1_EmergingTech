@@ -28,8 +28,8 @@ Normally when doing a video with a green screen, it is not just one click and ge
 Even in 2026, there is no best way to edit a video that has no rough edges.<br>
 Until they released this awesome tech on youtube :D
 
-**Reference**:  
-<sub>_Source: Corridor Crew. (2026). "I accidentally started a green screen revolution..." YouTube. Retrieved from https://www.youtube.com/watch?v=Y3Dfw969itU_
+**Reference**:<br>
+<sub>_Source: Corridor Crew. (2026). "It Took Me 30 Years to Solve this VFX Problem." YouTube. Retrieved from https://www.youtube.com/watch?v=3Ploi723hg4_
 
 ## usage
 - **In Education**:  
@@ -42,7 +42,7 @@ It is very related on IT because it tackles video editing. <br>
 Now people can actually not have a problem with green screen recordings. <br>
 It might also probably revolutionize the movie industry because this is relatively new and more efficient than previous tech. 
 
-**Reference**:  
+**Reference**:<br>
 <sub>_Source: nikopueringer. (2026). "CorridorKey: Perfect green screen keys." GitHub. Retrieved from https://github.com/nikopueringer/CorridorKey_
 
 ## examples
@@ -57,9 +57,6 @@ Listenin' to my heart instead of my head
 You found another one, but I am the better one
 I won't let you forget me
 
- - **Reference**:  
-_Source: Juice WRLD. (2018). "Lucid dreams lyrics." Genius. Retrieved from [https://genius.com/Juice-wrld-lucid-dreams-lyrics](https://genius.com/Juice-wrld-lucid-dreams-lyrics)_
-
 - **In IT**:  
 I still see your shadows in my room
 Can't take back the love that I gave you
@@ -70,6 +67,6 @@ Listenin' to my heart instead of my head
 You found another one, but I am the better one
 I won't let you forget me
 
- - **Reference**:  
-_Source: Juice WRLD. (2018). "Lucid dreams lyrics." Genius. Retrieved from [https://genius.com/Juice-wrld-lucid-dreams-lyrics](https://genius.com/Juice-wrld-lucid-dreams-lyrics)_
+**Reference**:<br>
+<sub>_Source: Corridor Crew. (2026). "I accidentally started a green screen revolution..." YouTube. Retrieved from https://www.youtube.com/watch?v=Y3Dfw969itU_
 
