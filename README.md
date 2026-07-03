@@ -24,23 +24,16 @@ References (Include citations for all information and examples using reputable s
 ## Purpose
 Based on my research, this technology is for video editing. <br>
 It allows you to perfectly blend someone in a green screen background. <br>
-Normally when doing a video with a green screen it is not just get magically edited as we think it would be. <br>
+Normally when doing a video with a green screen, it is not just one click and get magically edited as we think it would be. <br>
 Even in 2026, there is no best way to edit a video that has no rough edges.<br>
 Until they released this awesome tech on youtube :D
 
 - **Reference**:  
-_Source: nikopueringer. (2026). "CorridorKey: Perfect green screen keys." GitHub. Retrieved from https://github.com/nikopueringer/CorridorKey_
+_Source: Corridor Crew. (2026). "I accidentally started a green screen revolution..." YouTube. Retrieved from https://www.youtube.com/watch?v=Y3Dfw969itU_
 
 ## usage
 - **In Education**:  
-I still see your shadows in my room
-Can't take back the love that I gave you
-It's to the point where I love and I hate you
-And I cannot change you, so I must replace you, oh
-Easier said than done, I thought you were the one
-Listenin' to my heart instead of my head
-You found another one, but I am the better one
-I won't let you forget me
+this is very useful 
 
  - **Reference**:  
 _Source: Juice WRLD. (2018). "Lucid dreams lyrics." Genius. Retrieved from [https://genius.com/Juice-wrld-lucid-dreams-lyrics](https://genius.com/Juice-wrld-lucid-dreams-lyrics)_
