@@ -14,20 +14,22 @@ One example in the IT Industry
 References (Include citations for all information and examples using reputable sources.)
 ```
 
-# title hehe
+# Corridor Key
 
-## purpose
-I still see your shadows in my room
-Can't take back the love that I gave you
-It's to the point where I love and I hate you
-And I cannot change you, so I must replace you, oh
-Easier said than done, I thought you were the one
-Listenin' to my heart instead of my head
-You found another one, but I am the better one
-I won't let you forget me
+<div align="center">
+<video src="https://github.com/user-attachments/assets/1fb27ea8-bc91-4ebc-818f-5a3b5585af08" width="300" controls></video>
+</div>
+
+
+## Purpose
+Based on my research, this technology is for video editing. <br>
+It allows you to perfectly blend someone in a green screen background. <br>
+Normally when doing a video with a green screen it is not just get magically edited as we think it would be. <br>
+Even in 2026, there is no best way to edit a video that has no rough edges.<br>
+Until they released this awesome tech on youtube :D
 
 - **Reference**:  
-_Source: Juice WRLD. (2018). "Lucid dreams lyrics." Genius. Retrieved from [https://genius.com/Juice-wrld-lucid-dreams-lyrics](https://genius.com/Juice-wrld-lucid-dreams-lyrics)_
+_Source: nikopueringer. (2026). "CorridorKey: Perfect green screen keys." GitHub. Retrieved from https://github.com/nikopueringer/CorridorKey_
 
 ## usage
 - **In Education**:  
